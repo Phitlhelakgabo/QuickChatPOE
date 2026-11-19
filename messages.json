@@ -1,63 +1,5 @@
 [
   {
-    "messageID": "6387814725",
-    "messageHash": "63:0:HELLOMIKE",
-    "recipient": "+27718693002",
-    "message": "Hello Mike",
-    "messageNumber": 0
-  },
-  {
-    "messageID": "9217403716",
-    "messageHash": "92:0:HELLOMIKE",
-    "recipient": "+27718693002",
-    "message": "Hello Mike",
-    "messageNumber": 0
-  },
-  {
-    "messageID": "3130172561",
-    "messageHash": "31:0:HELLOMIKE",
-    "recipient": "+27718693002",
-    "message": "Hello Mike",
-    "messageNumber": 0
-  },
-  {
-    "messageID": "8406698517",
-    "messageHash": "84:0:HELLOMIKE",
-    "recipient": "+27718693002",
-    "message": "Hello Mike",
-    "messageNumber": 0
-  },
-  {
-    "messageID": "6664824723",
-    "messageHash": "66:0:HELLOMIKE",
-    "recipient": "+27718693002",
-    "message": "Hello Mike",
-    "messageNumber": 0
-  },
-  {
-    "messageID": "9491906556",
-    "messageHash": "94:0:HELLOMIKE",
-    "recipient": "+27718693002",
-    "message": "Hello Mike",
-    "messageNumber": 0
-  },
-  {
-    "Message ID": "9335254776",
-    "Message Hash": "93:0:HELLOMIKE",
-    "Recipient": "+27718693002",
-    "Message": "Hello Mike",
-    "Message Number": 0,
-    "Status": "Stored"
-  },
-  {
-    "Message ID": "8179757535",
-    "Message Hash": "81:0:HELLOMIKE",
-    "Recipient": "+27718693002",
-    "Message": "Hello Mike",
-    "Message Number": 0,
-    "Status": "Stored"
-  },
-  {
     "Message ID": "8356750697",
     "Message Hash": "83:0:HELLOMIKE",
     "Recipient": "+27718693002",
@@ -103,6 +45,54 @@
     "Recipient": "+27718693002",
     "Message": "Hello Mike",
     "Message Number": 0,
+    "Status": "Stored"
+  },
+  {
+    "Message ID": "3736253863",
+    "Message Hash": "37:0:HELLOMIKE",
+    "Recipient": "+27718693002",
+    "Message": "Hello Mike",
+    "Message Number": 0,
+    "Status": "Stored"
+  },
+  {
+    "Message ID": "4800294339",
+    "Message Hash": "48:0:HELLOMIKE",
+    "Recipient": "+27718693002",
+    "Message": "Hello Mike",
+    "Message Number": 0,
+    "Status": "Stored"
+  },
+  {
+    "Message ID": "1423461089",
+    "Message Hash": "14:0:WHERETIME",
+    "Recipient": "+27838884567",
+    "Message": "Where are you? You are late! I have asked you to be on time.",
+    "Message Number": 0,
+    "Status": "Stored"
+  },
+  {
+    "Message ID": "5739263704",
+    "Message Hash": "57:1:HELLOHELLO",
+    "Recipient": "+27834557896",
+    "Message": "Hello",
+    "Message Number": 1,
+    "Status": "Stored"
+  },
+  {
+    "Message ID": "2319292923",
+    "Message Hash": "23:1:HELLOHELLO",
+    "Recipient": "+27834557896",
+    "Message": "Hello",
+    "Message Number": 1,
+    "Status": "Stored"
+  },
+  {
+    "Message ID": "7469367533",
+    "Message Hash": "74:1:HELLOHELLO",
+    "Recipient": "+27834557896",
+    "Message": "Hello",
+    "Message Number": 1,
     "Status": "Stored"
   }
 ]
